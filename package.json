@@ -1,0 +1,19 @@
+{
+  "name": "crypto.cornode.js",
+  "version": "0.0.1",
+  "description": "Set of cryptographic functions utilized in cornode",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cornode",
+    "curl",
+    "javascript",
+    "library",
+    "browser",
+    "signing"
+  ],
+  "author": "Dominik Schiener",
+  "license": "MIT "
+}

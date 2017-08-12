@@ -1,2 +1,4 @@
 # crypto.cornode.js
-CORNODE-related crypto functions in Javascript
+cornode-related crypto functions in Javascript
+
+WORK IN PROGRESS. DO NOT USE RIGHT NOW!
